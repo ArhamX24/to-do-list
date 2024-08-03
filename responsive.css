@@ -1,0 +1,8 @@
+@media (max-width: 478px) {
+    .add-btn{
+        border: none;
+        outline: none;
+        padding: 10px 35px;
+        font-size: 12px;
+      }
+}
